@@ -1,0 +1,15 @@
+{
+   "namespace": "com.at.pruebas.avro",
+   "name": "Usuario",
+   "type": "record",     
+   "fields": [
+      {
+         "name": "nombre",
+         "type": "string"
+      },
+      {
+         "name": "contrasena",
+         "type": "string"
+      }
+   ]
+}
